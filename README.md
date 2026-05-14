@@ -26,7 +26,7 @@ go build -o name-counter
 ## Использование
 
 ```bash
-name-counter <file_name>
+name-counter <filename.txt>
 ```
 
 Пример файла `names.txt`:

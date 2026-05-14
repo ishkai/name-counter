@@ -19,7 +19,7 @@
 git clone https://github.com/ishkai/name-counter.git
 cd name-counter
 go build -o name-counter
-./name-counter names.txt
+./name-counter <filename.txt>
 ```
 
 
